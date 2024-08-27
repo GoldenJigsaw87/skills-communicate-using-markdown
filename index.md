@@ -5,4 +5,7 @@
 # <H5> H5_Demo </H5>
 # <H6> H6_Demo </H6>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-// What I did was I wrote a short message for each header to test each header type.
+``` swift
+var myName = "Mark";
+
+``` 
